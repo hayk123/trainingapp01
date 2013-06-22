@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Training app 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello mLab!</string>
+    <string name="hello_world_2">Hello mLab 2!</string>
+    <string name="second_button_01">First Button</string>
+    <string name="second_button_02">Second Button</string>
+
+</resources>

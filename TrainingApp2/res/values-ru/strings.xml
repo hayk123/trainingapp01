@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Training app 2(R)</string>
+    <string name="action_settings">Settings(R)</string>
+    <string name="hello_world">Hello mLab!(R)</string>
+    <string name="hello_world_2">Hello mLab 2(R)!</string>
+
+</resources>
